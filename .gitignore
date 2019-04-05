@@ -136,7 +136,7 @@ __pycache__/
 venv/
 
 # Data
-images/
+data/
 
 # Pre-trained model
 full_yolo_backend.h5
